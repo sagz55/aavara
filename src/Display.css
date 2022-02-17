@@ -1,0 +1,39 @@
+.disp_img img{
+width: 20vw;
+border-radius: 8px;
+}
+.display_card{
+    border: 1px  solid black;
+    padding: 1%;
+    background-color: #C197D2;
+    font-family: 'Federo',sans-serif;
+    margin: 1% 0.5%;
+    border-radius: 8px;
+}
+.display_container{
+    display: flex   ;
+    margin: 3%;
+    flex-wrap: wrap;
+}
+
+.disp_rating{
+    display: flex;
+    font-size: 20px;
+   
+    
+}
+.display_main h1{
+    margin-left: 3.5%;
+    font-family: 'Federo',sans-serif;
+    color: #C197D2;
+    font-size: 40px;
+    margin-top: 4%;
+}
+
+.card_top{
+    height: 400px;
+
+}
+.card_bottom{
+    float: right    ;
+}
